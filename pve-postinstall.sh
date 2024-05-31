@@ -100,7 +100,7 @@ show_spinner $! "Disabled subscription alert"
 
 echo -n "[/] Customizing the shell appearance... "
 {
-echo 'export ll="ls -lah"' >> ~/.bashrc
+echo 'alias ll="ls -lah"' >> ~/.bashrc
 echo 'export PS1="\[\e[31m\][\[\e[m\]\[\e[32m\]\u\[\e[m\]\[\e[31m\]@\[\e[m\]\[\e[33m\]\h\[\e[m\] \[\e[36;41m\]\A\[\e[m\] \[\e[31m\]-\[\e[m\] \[\e[34;40m\]\w\[\e[m\]\[\e[31m\]]\[\e[m\]\[\e[33m\]\\$\[\e[m\]\[\e[33m\]:\[\e[m\] "' >> ~/.bashrc
 } &
 show_spinner $! "Customized shell appearance"

@@ -1,1 +1,1 @@
-Proxmox VE script to automate post-installation tasks.
+Proxmox VE script to automate post-installation tasks on Debian based systems.

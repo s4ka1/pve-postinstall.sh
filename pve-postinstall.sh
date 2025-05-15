@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Copyright (c) 2024 Sergio Sánchez Martínez
-# Author: Sergio Sánchez Martínez (l0rdsergio)
+# Author: Sergio Sánchez Martínez (s4ka1)
 
 declare -x FRAME
 declare -x FRAME_INTERVAL
